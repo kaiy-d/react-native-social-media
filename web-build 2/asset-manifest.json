@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/Socially-Project/Main/static/js/app.d4727b54.chunk.js",
+    "app.js.map": "/Socially-Project/Main/static/js/app.d4727b54.chunk.js.map",
+    "runtime~app.js": "/Socially-Project/Main/static/js/runtime~app.ed3a26f3.js",
+    "runtime~app.js.map": "/Socially-Project/Main/static/js/runtime~app.ed3a26f3.js.map",
+    "static/js/2.86370447.chunk.js": "/Socially-Project/Main/static/js/2.86370447.chunk.js",
+    "static/js/2.86370447.chunk.js.map": "/Socially-Project/Main/static/js/2.86370447.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Socially-Project/Main/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Socially-Project/Main/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Socially-Project/Main/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Socially-Project/Main/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Socially-Project/Main/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Socially-Project/Main/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Socially-Project/Main/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Socially-Project/Main/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Socially-Project/Main/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Socially-Project/Main/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Socially-Project/Main/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Socially-Project/Main/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Socially-Project/Main/favicon-16.png",
+    "favicon-32.png": "/Socially-Project/Main/favicon-32.png",
+    "favicon.ico": "/Socially-Project/Main/favicon.ico",
+    "index.html": "/Socially-Project/Main/index.html",
+    "manifest.json": "/Socially-Project/Main/manifest.json",
+    "serve.json": "/Socially-Project/Main/serve.json",
+    "static/js/2.86370447.chunk.js.LICENSE.txt": "/Socially-Project/Main/static/js/2.86370447.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/Socially-Project/Main/static/media/background.6a67ac48.jpeg",
+    "static/media/logo.png": "/Socially-Project/Main/static/media/logo.93a90fef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ed3a26f3.js",
+    "static/js/2.86370447.chunk.js",
+    "static/js/app.d4727b54.chunk.js"
+  ]
+}

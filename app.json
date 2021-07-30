@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Blurb",
+    "slug": "login-template",
+    "scheme": "com.social.login-template",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "blurb"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.chackerian.logintemplate"
+    },
+    "web": {
+      "favicon": "./src/assets/logo.jpeg"
+    },
+    "description": "```js npm install // or yarn install ```"
+  }
+}
